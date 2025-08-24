@@ -1,4 +1,4 @@
-# "Financial consultant based on AI"[https://finance-ai.cloud]
+# ["Financial consultant based on AI"](https://finance-ai.cloud)
 
 https://finance-ai.cloud
 

@@ -1,6 +1,4 @@
-# ["Financial consultant based on AI"](https://finance-ai.cloud)
-
-https://finance-ai.cloud
+# Financial consultant based on AI
 
 - the user gets the opportunity to create an individual
 financial portfolio based on his preferences;

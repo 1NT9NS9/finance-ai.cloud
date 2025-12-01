@@ -9,5 +9,6 @@ assistant based on AI;
 - the user gets the opportunity to copy the transactions of profitable portfolios by subscription
 
 <img width="817" height="677" alt="image" src="https://github.com/user-attachments/assets/875ca084-2852-434a-8d8a-13d042bd865d" />
-<img width="1907" height="915" alt="image" src="https://github.com/user-attachments/assets/bbec6b8f-60cd-483e-9287-c3655c4ed67b" />
+<img width="494" height="638" alt="image" src="https://github.com/user-attachments/assets/16b72e16-12cc-47cd-b7d0-c173d75ec7a1" />
+
 
